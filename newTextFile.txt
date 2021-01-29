@@ -2,4 +2,8 @@ Pro git 공부용
 
 새로운 내용
 
+<<<<<<< HEAD
 testing 브랜치 생성 이후 다시 main 브랜치로 돌아와서 작업
+=======
+testing 브랜치의 새로운 커밋
+>>>>>>> testing
